@@ -4,8 +4,9 @@
 
 * [¿Qué es Docker Swarm?](#/concepts)
 * [Instalación](#/installation)
-* [Configuración](#/configuration)
-* [Práctica 1: Wordpress](#/wordpress)
+* [CLI](#/cli)
+* [Práctica 1: Wordpress swarm](#/wordpress-swarm)
+* [Práctica 2: Wordpress stack](#/wordpress-stack)
 * [Ejercicio](/#exercise)
 
 notes:
