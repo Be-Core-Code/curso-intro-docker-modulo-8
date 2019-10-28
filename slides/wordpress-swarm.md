@@ -1,6 +1,6 @@
 ### 💻️ Práctica 1: Wordpress Swarm
 
-Levantar _swarm_ con MySQL y Wordpress
+Objetivo: levantar _swarm_ con MySQL y Wordpress
 
 notes:
 
